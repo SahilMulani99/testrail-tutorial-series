@@ -68,4 +68,4 @@ Follow step-by-step to understand TestRail from basics to advanced.
 
 ---
 ⭐ Follow me on LinkedIn  
-🔗 https://linkedin.com/in/your-profile
+🔗 www.linkedin.com/in/sahilmulani99
