@@ -44,21 +44,21 @@ Follow step-by-step to understand TestRail from basics to advanced.
 
 ---
 
-## 3. Test Cases  
-🔗 (paste your LinkedIn post link here)  
-💡 How to write effective test cases  
+## 7. Test Runs in TestRail: Where Testing Actually Happens  
+🔗 (https://www.linkedin.com/posts/sahilmulani99_softwaretesting-qa-testrail-activity-7449311659631919104-leuC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZezFcBFbDaUA_fbcRqZYFrIvzZZaUNNK4)  
+💡 A Test Run in TestRail is where test cases are executed, results are recorded, and testing progress is tracked
 
 ---
 
-## 3. Test Cases  
-🔗 (paste your LinkedIn post link here)  
-💡 How to write effective test cases  
+## 8. Writing Test Cases in TestRail: What Beginners Often Miss
+🔗 (https://www.linkedin.com/posts/sahilmulani99_softwaretesting-testrail-qa-activity-7450030170834567168-8nnF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZezFcBFbDaUA_fbcRqZYFrIvzZZaUNNK4)  
+💡 Good test cases are clear, repeatable, and understandable, helping testers execute scenarios consistently without confusion
 
 ---
 
-## 3. Test Cases  
-🔗 (paste your LinkedIn post link here)  
-💡 How to write effective test cases  
+## 9.Manual vs CSV in TestRail: Choosing the Right Way to Write Test Cases
+🔗 (https://www.linkedin.com/posts/sahilmulani99_softwaretesting-qa-testrail-activity-7450758741521707009-JGdZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZezFcBFbDaUA_fbcRqZYFrIvzZZaUNNK4)  
+💡 Choosing between manual entry and CSV import in TestRail helps balance precision and speed in test case creation
 
 ---
 
