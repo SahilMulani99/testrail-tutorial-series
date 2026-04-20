@@ -67,5 +67,5 @@ Follow step-by-step to understand TestRail from basics to advanced.
 💡 💡 Learn how to practically create and organize test cases in TestRail with a clear, step-by-step execution approach.
 
 ---
-⭐ Follow me on LinkedIn  
+⭐ Follow me on LinkedIn: Sahil Mulani.  
 🔗 www.linkedin.com/in/sahilmulani99
