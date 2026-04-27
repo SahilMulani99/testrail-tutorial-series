@@ -64,8 +64,27 @@ Follow step-by-step to understand TestRail from basics to advanced.
 
 ## 10.TestRail in Action: Adding Test Cases Manually (Beginner Walkthrough)
 🔗 (https://www.linkedin.com/posts/sahilmulani99_softwaretesting-qa-testrail-activity-7451848374607048705-OCZq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZezFcBFbDaUA_fbcRqZYFrIvzZZaUNNK4)  
-💡 💡 Learn how to practically create and organize test cases in TestRail with a clear, step-by-step execution approach.
+💡 Learn how to practically create and organize test cases in TestRail with a clear, step-by-step execution approach.
+
+---
+
+## 11.Manual Entry vs CSV Import in TestRail: Why Smart Testers Switch
+🔗 (https://www.linkedin.com/posts/sahilmulani99_softwaretesting-testrail-qa-share-7451474504507179009-edaR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZezFcBFbDaUA_fbcRqZYFrIvzZZaUNNK4)  
+💡 CSV import in TestRail helps testers save time, reduce repetitive work, and manage bulk test cases more efficiently compared to manual entry.
+
+---
+
+## 12.CSV Import in TestRail: Avoid Errors Before They Happen
+🔗 (https://www.linkedin.com/posts/sahilmulani99_softwaretesting-testrail-qa-share-7451483995797692416-rPot?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZezFcBFbDaUA_fbcRqZYFrIvzZZaUNNK4)  
+💡 Before importing CSV in TestRail, checking field mapping, formatting, mandatory data, file type, and clean structure helps prevent import failures.
+
+---
+
+## 13.TestRail CSV Import: Step-by-Step CSV Import Guide
+🔗 (https://www.linkedin.com/posts/sahilmulani99_softwaretesting-qa-testrail-ugcPost-7451848249298120704-illl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZezFcBFbDaUA_fbcRqZYFrIvzZZaUNNK4)  
+💡 This tutorial demonstrates how to import multiple test cases in TestRail using CSV by preparing the right structure, mapping fields correctly, and validating data before upload.
 
 ---
 ⭐ Follow me on LinkedIn: Sahil Mulani.  
 🔗 www.linkedin.com/in/sahilmulani99
+.
