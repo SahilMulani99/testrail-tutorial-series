@@ -88,7 +88,8 @@ Follow step-by-step to understand TestRail from basics to advanced.
 
 ## 14. Test Run Management in TestRail: Execution with Purpose
 🔗 (https://www.linkedin.com/posts/sahilmulani99_softwaretesting-qa-testrail-share-7454931751824498688-DJeo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZezFcBFbDaUA_fbcRqZYFrIvzZZaUNNK4)
-💡 A Test Run in TestRail helps teams execute relevant test cases for a specific release, track progress clearly, and make confident release decisions with full visibility.
+💡 A Test Run in TestRail helps teams execute relevant test cases for a specific release, track progress clearly, and make confident release decisions with full visibility..
+
 
 ---
 
