@@ -56,37 +56,37 @@ Follow step-by-step to understand TestRail from basics to advanced.
 
 ---
 
-## 9.Manual vs CSV in TestRail: Choosing the Right Way to Write Test Cases
+## 9. Manual vs CSV in TestRail: Choosing the Right Way to Write Test Cases
 🔗 (https://www.linkedin.com/posts/sahilmulani99_softwaretesting-qa-testrail-activity-7450758741521707009-JGdZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZezFcBFbDaUA_fbcRqZYFrIvzZZaUNNK4)  
 💡 Choosing between manual entry and CSV import in TestRail helps balance precision and speed in test case creation.
 
 ---
 
-## 10.TestRail in Action: Adding Test Cases Manually (Beginner Walkthrough)
+## 10. TestRail in Action: Adding Test Cases Manually (Beginner Walkthrough)
 🔗 (https://www.linkedin.com/posts/sahilmulani99_softwaretesting-qa-testrail-activity-7451848374607048705-OCZq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZezFcBFbDaUA_fbcRqZYFrIvzZZaUNNK4)  
 💡 Learn how to practically create and organize test cases in TestRail with a clear, step-by-step execution approach.
 
 ---
 
-## 11.Manual Entry vs CSV Import in TestRail: Why Smart Testers Switch
+## 11. Manual Entry vs CSV Import in TestRail: Why Smart Testers Switch
 🔗 (https://www.linkedin.com/posts/sahilmulani99_softwaretesting-testrail-qa-share-7451474504507179009-edaR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZezFcBFbDaUA_fbcRqZYFrIvzZZaUNNK4)  
 💡 CSV import in TestRail helps testers save time, reduce repetitive work, and manage bulk test cases more efficiently compared to manual entry.
 
 ---
 
-## 12.CSV Import in TestRail: Avoid Errors Before They Happen
+## 12. CSV Import in TestRail: Avoid Errors Before They Happen
 🔗 (https://www.linkedin.com/posts/sahilmulani99_softwaretesting-testrail-qa-share-7451483995797692416-rPot?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZezFcBFbDaUA_fbcRqZYFrIvzZZaUNNK4)  
 💡 Before importing CSV in TestRail, checking field mapping, formatting, mandatory data, file type, and clean structure helps prevent import failures.
 
 ---
 
-## 13.TestRail CSV Import: Step-by-Step CSV Import Guide
+## 13. TestRail CSV Import: Step-by-Step CSV Import Guide
 🔗 (https://www.linkedin.com/posts/sahilmulani99_softwaretesting-qa-testrail-ugcPost-7451848249298120704-illl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZezFcBFbDaUA_fbcRqZYFrIvzZZaUNNK4)  
 💡 This tutorial demonstrates how to import multiple test cases in TestRail using CSV by preparing the right structure, mapping fields correctly, and validating data before upload.
 
 ---
 
-## 14.Test Run Management in TestRail: Execution with Purpose
+## 14. Test Run Management in TestRail: Execution with Purpose
 🔗 (https://www.linkedin.com/posts/sahilmulani99_softwaretesting-qa-testrail-share-7454931751824498688-DJeo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZezFcBFbDaUA_fbcRqZYFrIvzZZaUNNK4)
 💡 A Test Run in TestRail helps teams execute relevant test cases for a specific release, track progress clearly, and make confident release decisions with full visibility.
 
